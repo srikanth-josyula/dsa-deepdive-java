@@ -1,7 +1,11 @@
 package com.arrays.sorting;
 
 import java.util.Arrays;
-
+/*
+ * Bubble Sort is a fundamental sorting algorithm, and understanding it can be easier with the right tricks and visual aids. 
+ * Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order. 
+ * The process is repeated until the list is sorted
+ */
 public class BubbleSort {
 
 	public static void main(String[] args) {
